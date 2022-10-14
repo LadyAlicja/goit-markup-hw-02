@@ -1,4 +1,4 @@
-# goit-markup-hw-01
+# goit-markup-hw-02
 
 Zadanie domowe #2 kurs HTML
 13.10 zrobione:
